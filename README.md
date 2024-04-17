@@ -9,3 +9,6 @@ BiometricManager.from(context).canAuthenticate(BiometricManager.Authenticators.B
 ```
 
 <img src="./assets/ss.gif" />
+
+
+<a href="./assets/logcat.txt">log</a>
